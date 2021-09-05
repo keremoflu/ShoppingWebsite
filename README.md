@@ -11,11 +11,11 @@
             "Kerem Oflu",
             12000.0)`
 
-> Creating product<br/><br/><br/>
+> Creating product
 
 `var product1 = Product( 1,
             "Cappadocia Poster",
-            100.0,
+            100.0,<br/><br/><br/>
             "A gift from my Cappadocia Trip",
             PRODUCTTYPE.TRAVEL, //enum type
             istanbulGiftShop //owner of this product set as istanbulGiftShop)`
