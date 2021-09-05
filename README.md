@@ -13,8 +13,7 @@
 
 > Creating product
 
-`var product1 = Product(
-            1,
+`var product1 = Product( 1,
             "Cappadocia Poster",
             100.0,
             "A gift from my Cappadocia Trip",
