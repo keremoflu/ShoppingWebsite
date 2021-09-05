@@ -46,3 +46,6 @@ customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
 ###### Website total revenue
 `println("UserData.shoppingSystemCompanyRevenue)`
             
+> Refund product
+###### Delete product from customer, refund money, decrease website/shop revenue
+`customer1.refundProduct(product1)`
