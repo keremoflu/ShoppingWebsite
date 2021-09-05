@@ -15,8 +15,8 @@
 
 `var product1 = Product( 1,
             "Cappadocia Poster",
-            100.0,<br/><br/><br/>
+            100.0,
             "A gift from my Cappadocia Trip",
-            PRODUCTTYPE.TRAVEL, //enum type
-            istanbulGiftShop //owner of this product set as istanbulGiftShop)`
+            PRODUCTTYPE.TRAVEL,
+            istanbulGiftShop 
             
