@@ -13,10 +13,10 @@
 
 > Creating product
 
-`var product1 = Product( 1,
-            "Cappadocia Poster",
-            100.0,
-            "A gift from my Cappadocia Trip",
-            PRODUCTTYPE.TRAVEL, //enum type
+`var product1 = Product( 1,<br />
+            "Cappadocia Poster",<br />
+            100.0,<br />
+            "A gift from my Cappadocia Trip",<br />
+            PRODUCTTYPE.TRAVEL, //enum type<br />
             istanbulGiftShop //owner of this product set as istanbulGiftShop)`
             
