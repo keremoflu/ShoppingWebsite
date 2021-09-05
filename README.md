@@ -17,7 +17,6 @@
             "Cappadocia Poster",
             100.0,
             "A gift from my Cappadocia Trip",
-            
             PRODUCTTYPE.TRAVEL,
             istanbulGiftShop) `
             
@@ -29,5 +28,10 @@
 
 `customer1.addReviewToProduct(product1, "Nice quality poster!", 5.0)
 customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
+
+> Get some details
+
+### Product details
+`println(product1.toString())`
 
             
