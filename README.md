@@ -12,6 +12,7 @@
             12000.0)`
 
 > Creating product
+
 `var product1 = Product(
             1,
             "Cappadocia Poster",
