@@ -44,7 +44,7 @@ customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
 ` println(product1.productBelongsTo.getShopReviewRatio()) `
 
 ###### Website total revenue
-`println("UserData.shoppingSystemCompanyRevenue)`
+`println("UserData.shoppingSystemCompanyRevenue)`<br/>
                        
 > Refund product
 ###### Delete product from customer, refund money, decrease website/shop revenue
