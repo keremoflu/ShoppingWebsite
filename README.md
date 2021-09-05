@@ -1,4 +1,4 @@
-##Shopping System for Kotlin Training
+## Shopping System for Kotlin Training
 
 // Creating shop/seller
   var istanbulGiftShop = Shop().createShop(1,"Istanbul Gift Shop")
