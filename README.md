@@ -6,7 +6,7 @@
 
 > Creating customer
 
-    `var customer1 = Customer().createCustomer(
+  `var customer1 = Customer().createCustomer(
             1,
             "Kerem Oflu",
             12000.0)`
