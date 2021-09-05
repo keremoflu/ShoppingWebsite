@@ -31,7 +31,7 @@ customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
 
 > Get some details
 
-### Product details
+###### Product details
 `println(product1.toString())`
 
             
