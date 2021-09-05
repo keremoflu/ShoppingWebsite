@@ -34,4 +34,15 @@ customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
 ###### Product details
 `println(product1.toString())`
 
+###### Customer details
+`println(customer1.toString())`
+
+###### Shop/Seller total revenue
+`println(product1.productBelongsTo.getShopTotalRevenue())`
+ 
+ ###### Average review ratio of shop
+` println(product1.productBelongsTo.getShopReviewRatio()) `
+
+###### Website total revenue
+`println("UserData.shoppingSystemCompanyRevenue)`
             
