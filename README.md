@@ -1,6 +1,6 @@
 ## Shopping System for Kotlin Training
 
-// Creating shop/seller
+> Creating shop/seller
   var istanbulGiftShop = Shop().createShop(1,"Istanbul Gift Shop")
 
 // Creating customer
