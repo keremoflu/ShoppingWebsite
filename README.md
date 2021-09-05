@@ -1,4 +1,5 @@
 ## Shopping System for Kotlin Training
+###### Simple real life example for fresh kotlin users to practice.
 
 > Creating shop/seller
 
