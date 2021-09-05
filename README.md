@@ -20,3 +20,13 @@
             PRODUCTTYPE.TRAVEL,
             istanbulGiftShop) `
             
+> Customer buys a product
+
+`customer1.buyProduct(product1)  `       
+
+> Adding review to product
+
+`customer1.addReviewToProduct(product1, "Nice quality poster!", 5.0)
+customer2.addReviewToProduct(product1, "I didn't like shipping delay.", 2.0)`
+
+            
