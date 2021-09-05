@@ -11,7 +11,7 @@
             "Kerem Oflu",
             12000.0)`
 
-> Creating product
+> Creating product<br/><br/><br/>
 
 `var product1 = Product( 1,
             "Cappadocia Poster",
